@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-WATCH VIDEO FOR FULL IMPLEMENTATION!!!
+CLICK AND WATCH VIDEO FOR FULL IMPLEMENTATION
 
 <a href="https://www.loom.com/share/c25d7e78abbc4d309d3d7e526dd8564b">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c25d7e78abbc4d309d3d7e526dd8564b-with-play.gif">
